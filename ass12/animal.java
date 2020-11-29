@@ -1,0 +1,7 @@
+class animal 
+{
+	void run()
+	{
+		
+	}
+}
